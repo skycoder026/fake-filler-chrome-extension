@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Skycoder Fake Filler",
+  "version": "1.0",
+  "description": "Fill all text inputs with random text.",
+  "permissions": ["scripting", "activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
